@@ -1,9 +1,0 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-*.pkl
-old.py
-student.txt
-student-merge.R
-venv/
-*.ipynb
